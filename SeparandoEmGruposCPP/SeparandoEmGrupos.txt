@@ -1,0 +1,17 @@
+Separando em grupos
+Camila é professora e coordenadora da escola de programadores de São Miguel. Ela resolveu separar os alunos de acordo com o tamanho do nome.
+Os alunos com nomes de até 4 letras estão no grupo A, o grupo B é composto pelos nomes que possuem de 5 a 10 letras e o grupo C é composto pelos nomes que tem mais de 10 letras.
+
+Entrada
+A única linha de entrada contém o nome do aluno.
+
+Saída
+Seu programa deve imprimir como saída uma palavra indicando a qual grupo o aluno pertence.
+
+Exemplo
+Entrada	Saída
+João -> GRUPO A
+  
+Matheus -> GRUPO B
+  
+Marcellinho	-> GRUPO C
